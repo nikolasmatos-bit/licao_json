@@ -1,6 +1,14 @@
-{
-  "nome": "Camisa Palmeiras",
-  "preco": 139.99,
-  "quantidade": 16,
-  "disponivel": true
+
+{    "produto": {
+        "nome": "Mouse Gamer",
+        "preco": 129.9,
+        "quantidade": 15,
+        "disponivel": true,
+        "categorias": ["Periféricos", "Gamer"],
+        "fornecedor": {
+            "nome": "TechStore",
+            "cidade": "São Paulo"
+        },
+        "desconto": null
+    }
 }

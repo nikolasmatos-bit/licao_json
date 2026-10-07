@@ -1,6 +1,15 @@
 {
-  "titulo": "Homem de Ferro",
-  "ano": 2008,
-  "diretor": "Jon Favreau",
-  "generos": ["Ação", "Aventura", "Ficção científica"]
+    "filme": {
+        "titulo": "Interestelar",
+        "ano": 2014,
+        "diretor": "Christopher Nolan",
+        "generos": ["Ficção Científica", "Drama", "Aventura"],
+        "nota": 8.7,
+        "assistido": true,
+        "protagonista": {
+            "nome": "Matthew McConaughey",
+            "personagem": "Cooper"
+        },
+        "sequencia": null
+    }
 }
